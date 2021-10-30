@@ -70,7 +70,7 @@ print_error.c ---------------------- prints special error messages for certain f
 ### Environment
 * Language: C
 * OS: Ubuntu 20.04 LTS
-* Compiler: gcc 9.1. 0
+* Compiler: gcc 9.0.1
 
 ## How To Install, Compile, and Use
 Install and Compile
@@ -111,5 +111,5 @@ $ exit
 
 ---
 ### Authors
-Yeabkal Wondimu [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/WYeabkal)
-kaleb Abiy [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/caleb_abiy)
+Kevin Yook [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/WYeabkal)
+Melissa Ng [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/caleb_abiy)
